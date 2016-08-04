@@ -1,0 +1,3 @@
+hbase.zookeeper.property.clientPort=2181
+hbase.zookeeper.quorum=localhost
+hbase.master=localhost
